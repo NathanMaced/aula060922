@@ -6,7 +6,7 @@ public class main {
         double grau=10, fahr=50;
         
     do{
-    System.out.println (fahr + " Graus fahrenheit é igual a "+ grau +" Graus centígrados\n");
+    System.out.println (fahr + " Graus fahrenheit é igual a "+ grau +" Graus centígrados");
             grau++;
             fahr=fahr+1.80;
     }
